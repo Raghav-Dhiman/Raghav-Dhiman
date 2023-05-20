@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+    <img src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" alt="Heading Image">
 <p>
 <h1 align="center">Hi 👋, I'm Raghav Dhiman</h1>
 <h3 align="center">A passionate Penetration Tester currently looking for part time work!</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/143/143709.gif">
+<img align="right" alt="Coding-Image" width="400" src="https://giffiles.alphacoders.com/143/143709.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-dhiman&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-dhiman" /> </p>
 
