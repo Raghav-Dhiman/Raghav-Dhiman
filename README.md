@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **AngularJs**
 
-- 📝 I regularly write articles on [https://www.cyberwares.in](https://www.cyberwares.in)
+- 📝 I regularly write articles on [https://www.CONFIDENTIAL.in](https://www.CONFIDENTIAL.in)
 
 - 💬 Ask me about **CyberSecurity, different programming technologies, Forensics**
 
-- 📫 How to reach me **cybermonk@cyberwares.in**
+- 📫 How to reach me **CONFIDENTIAL**
 
 - 📄 Know about my experiences [my resume](my resume)
 
-- ♦️📹 My Youtube Channel <a href="https://www.youtube.com/@CyberWares">CyberWares</a>
+- ♦️📹 My Youtube Channel <a href="https://www.youtube.com/@CONFIDENTIAL">CONFIDENTIAL</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
